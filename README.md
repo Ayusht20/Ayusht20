@@ -187,38 +187,16 @@ Building scalable web applications, real-time systems, and modern backend soluti
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayusht20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayusht20&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
 # 🧠 Current Learning
 
-````yaml
+````
 Scalable Backend Architecture
 Advanced API Security
 Real-Time Communication Systems
 Advanced Python Development
 Data Analytics & Visualization
 System Design & SaaS Infrastructure
-```yaml
+
 Backend Architecture
 Scalable APIs
 Real-Time Communication
@@ -253,6 +231,5 @@ System Design
 
 ### ⚡ "Building modern applications with scalable architecture and real-world impact."
 
-<img src="https://komarev.com/ghpvc/?username=Ayusht20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
