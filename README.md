@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/gitbanner.html" alt="Ayush Banner" width="100%" />
+</p>
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ayush Trilokchandani
 
 <h3 align="center">
