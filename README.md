@@ -188,16 +188,6 @@ Building scalable SaaS platforms, real-time systems, backend architectures, and 
 * Pandas Data Analysis
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayusht20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
----
 
 # 🧠 Current Learning
 
