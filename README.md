@@ -1,23 +1,22 @@
-<p align="center">
-  <img src="assets/gitbanner.png" alt="Ayush Banner" width="100%" />
-</p>
-<h3 align="center">
+# <p align="center"><img src="assets/gitbanner.png" alt="Ayush Banner" width="100%" /></p>
+
+<h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ayush Trilokchandani
-</h3>
+</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer • SaaS Builder • Backend Enthusiast • Data Analytics Learner
+🚀 Full-Stack Developer • SaaS Builder • Backend Enthusiast • AI Analytics Developer
 </h3>
 
 <p align="center">
-Building scalable web applications, real-time systems, and modern backend solutions.
+Building scalable SaaS platforms, real-time systems, backend architectures, and AI-powered analytics applications.
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+SaaS+Platforms;Real-Time+Application+Developer;Backend+%26+API+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+SaaS+Platforms;Real-Time+Application+Developer;Backend+%26+API+Enthusiast;AI-Powered+Analytics+Developer;Conversational+Analytics+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -25,25 +24,32 @@ Building scalable web applications, real-time systems, and modern backend soluti
 
 # 🌟 About Me
 
-💻 Full-Stack Developer and IT graduate with hands-on experience in backend development, SaaS platforms, real-time systems, and data analytics. Passionate about building production-ready applications with scalable architecture and practical business use cases.
+💻 Full-Stack Developer and IT graduate with hands-on experience in backend development, SaaS platforms, real-time applications, and AI-powered analytics systems.
 
-📊 Experienced in structured data management, dashboard systems, API workflows, and modern web development.
+⚡ Passionate about building production-ready applications with scalable architecture, practical business use cases, and modern backend workflows.
 
-⚡ Internship Experience:
+🤖 Building AI-powered analytics systems that transform natural-language prompts into actionable insights and dynamic visualizations.
 
-* Data Operations & Analysis Intern at Triotronick Systems
-* Python Web Development Intern at Labmentix
+📊 Experienced in structured data management, reporting systems, API workflows, dashboard creation, and scalable application development.
 
-🎯 Focus Areas:
+---
 
-* Backend Development
-* Full-Stack Applications
-* SaaS Platforms
-* Real-Time Systems
-* Data Analytics & Visualization
-* API Architecture
+# 💼 Professional Experience
 
-📍 Jamnagar, Gujarat
+## 🏢 Data Operations & Analysis Intern — Triotronick Systems
+
+* Worked extensively on structured data management and reporting systems
+* Performed data cleaning, validation, and optimization
+* Built dashboards and analytical reports
+* Improved operational accuracy using structured workflows
+
+---
+
+## 🐍 Python Web Development Intern — Labmentix
+
+* Worked on backend development using Python
+* Learned request handling and scalable backend logic
+* Explored real-world application architecture and workflows
 
 ---
 
@@ -55,7 +61,9 @@ Building scalable web applications, real-time systems, and modern backend soluti
 
 </div>
 
-### 💻 Programming Languages
+---
+
+## 💻 Programming Languages
 
 * C
 * C++
@@ -64,31 +72,39 @@ Building scalable web applications, real-time systems, and modern backend soluti
 * C#
 * PHP
 
-### 🌐 Web Technologies
+---
+
+## 🌐 Web Technologies
 
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
-* Advanced Java
-* Python
 * Node.js (Express)
+* FastAPI
 
-### 🗄 Databases
+---
+
+## 🗄 Databases
 
 * MySQL
+* PostgreSQL
 * Oracle DB
 * Supabase
-* Postgre
 
-### 📊 Data & Analytics
+---
 
+## 📊 Data & AI Technologies
+
+* Pandas
+* NumPy
+* Matplotlib
+* OpenAI API
 * Data Cleaning
 * Data Validation
-* Dashboard Creation
 * Data Visualization
-* Structured Dataset Handling
-* Reporting Systems
+* AI Prompt Processing
+* Dashboard Systems
 
 ---
 
@@ -96,11 +112,11 @@ Building scalable web applications, real-time systems, and modern backend soluti
 
 <div align="center">
 
-| Project                            | Description                                                                                                  | Core Technologies                                |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| 🚀 **MeterFlow**                   | SaaS API monetization platform with API gateway, analytics, usage tracking, and credit-based billing system. | FastAPI • PostgreSQL • Supabase • JWT • Razorpay |
-| ⚡ **TypingRush**                   | Real-time multiplayer typing game with WebSockets, leaderboard system, JWT auth, and admin dashboard.        | Node.js • Socket.IO • MySQL • Express            |
-| 📊 **AI Data Analytics Dashboard** | AI-powered analytics dashboard for CSV analysis, visualization, and natural-language querying.               | Python • Pandas • OpenAI API • Matplotlib        |
+| Project                            | Description                                                                                                                                                                 | Core Technologies                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🚀 **MeterFlow**                   | SaaS API monetization platform with API gateway architecture, analytics dashboard, usage tracking, and credit-based billing workflows.                                      | FastAPI • PostgreSQL • JWT • Supabase     |
+| ⚡ **TypingRush**                   | Real-time multiplayer typing game with WebSockets, leaderboard systems, JWT authentication, and competitive multiplayer architecture.                                       | Node.js • Socket.IO • MySQL • Express     |
+| 📊 **AI Data Analytics Dashboard** | AI-powered conversational analytics platform that understands natural-language prompts, analyzes uploaded datasets, and dynamically generates insights with visualizations. | Python • Pandas • OpenAI API • Matplotlib |
 
 </div>
 
@@ -157,58 +173,53 @@ Building scalable web applications, real-time systems, and modern backend soluti
 
 ### 🌟 What Makes It Special
 
-✔ AI-powered natural language data querying
-✔ Automated chart generation
-✔ CSV upload and structured dataset processing
-✔ Dynamic analytical workflows
-✔ Visualization-based insights generation
+✔ AI-powered conversational analytics system
+✔ Users can upload CSV datasets and ask questions in natural language
+✔ AI automatically understands prompts related to uploaded data
+✔ Dynamically generates charts and visualizations based on AI responses
+✔ Performs automated analytical workflows and insight generation
+✔ Converts structured datasets into meaningful business insights
 
 ### 🧠 Core Concepts Used
 
-* Data Cleaning & Processing
-* Pandas Workflows
-* AI Prompt Integration
-* Visualization Systems
-* Analytical Pipelines
+* AI Prompt Processing
+* Conversational Data Querying
+* Dynamic Chart Generation
+* Pandas Data Analysis
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayusht20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
 
-# 💼 Professional Experience
+# 🔥 GitHub Streak
 
-## 🏢 Data Operations & Analysis Intern — Triotronick Systems
+<div align="center">
 
-* Worked extensively on structured data management and reporting systems
-* Performed data validation and dataset optimization
-* Created dashboards and analytical reports
-* Improved operational data accuracy using validation workflows
+<img src="https://streak-stats.demolab.com?user=Ayusht20&theme=tokyonight&hide_border=true&border_radius=15" />
 
----
-
-## 🐍 Python Web Development Intern — Labmentix
-
-* Worked on backend development using Python
-* Learned request handling and scalable backend logic
-* Explored real-world application architecture and workflows
+</div>
 
 ---
 
 # 🧠 Current Learning
 
-````
+```yaml
 Scalable Backend Architecture
 Advanced API Security
 Real-Time Communication Systems
+AI-Powered Analytics Systems
 Advanced Python Development
-Data Analytics & Visualization
 System Design & SaaS Infrastructure
-
-Backend Architecture
-Scalable APIs
-Real-Time Communication
-Advanced Python
-Data Analytics
-System Design
-````
+```
 
 ---
 
@@ -234,10 +245,6 @@ System Design
 
 <div align="center">
 
-### ⚡ "Building modern applications with scalable architecture and real-world impact."
-
+### ⚡ "Building scalable systems, AI-powered applications, and real-world digital products."
 
 </div>
-
-
-
