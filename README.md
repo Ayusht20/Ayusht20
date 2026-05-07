@@ -197,17 +197,6 @@ Building scalable SaaS platforms, real-time systems, backend architectures, and 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayusht20&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
 ---
 
 # 🧠 Current Learning
