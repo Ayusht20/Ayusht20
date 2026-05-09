@@ -221,5 +221,9 @@ System Design & SaaS Infrastructure
 </div>
 
 ---
+<div align="center">
 
+### ⚡ "Building scalable systems, AI-powered applications, and real-world digital products."
+
+</div>
 
