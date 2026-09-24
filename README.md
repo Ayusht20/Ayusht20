@@ -36,11 +36,8 @@ Full-Stack Developer with hands-on experience building scalable backend systems,
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayusht20&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=dark&hide_border=true" width="100%" alt="Top Languages" />
+    <td  align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayusht20&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
